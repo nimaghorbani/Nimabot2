@@ -222,18 +222,11 @@ function create_config( )
     },
     sudo_users = {132921618},--Sudo users
     disabled_channels = {},
-    realm = {63904693},--Realms Id
+    realm = {63412073},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[HaWkerGhBot V1.0
 
-Admins
-@HaWkerGHBot
 
-Special thanks to
-@HaWkerGHBot
-
-our channel
-@talbackBot
 ]],
     help_text = [[
 Commands list :
@@ -331,8 +324,7 @@ will return group logs
 !banlist
 will return group ban list
 
-!satan
-about bot.
+
 **U can use both "/" and "!" 
 
 
